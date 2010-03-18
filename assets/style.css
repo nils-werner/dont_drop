@@ -2,6 +2,6 @@ body #nav li.singlenavgroup.active a, body #nav li.singlenavgroup:hover a {
 	color: #ffffff;
 }
 
-body #nav li.singlenavgroup.active a {
+body #nav li.singlenavgroup a {
 	padding: 0px;
 }
