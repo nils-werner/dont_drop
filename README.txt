@@ -4,7 +4,7 @@ Single Navgroup Behaviour
 
 Version: 1.0
 Author: Nils Werner (nils.werner@gmail.com)
-Build Date: 2009-05-26
+Build Date: 2010-03-18
 
 
 [INSTALLATION]
