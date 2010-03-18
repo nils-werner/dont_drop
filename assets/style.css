@@ -1,8 +1,8 @@
-body #nav li.singlenavgroup.active a, body #nav li.singlenavgroup:hover a {
+body #nav li.dontdrop.active a, body #nav li.dontdrop:hover a {
 	color: #ffffff;
 }
 
-body #nav li.singlenavgroup a {
+body #nav li.dontdrop a {
 	padding: 0px;
 	background: none;
 	color: #646464;

@@ -1,4 +1,4 @@
-All source code included in the "Single Navgroup Behaviour" Symphony Extension archive
+All source code included in the "Don't Drop" Symphony Extension archive
 is, unless otherwise specified, released under the MIT licence as follows:
 
 ----- begin license block -----
