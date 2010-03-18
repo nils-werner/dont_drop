@@ -1,0 +1,3 @@
+body #nav li.singlenavgroup.active a, body #nav li.singlenavgroup:hover a {
+	color: #ffffff;
+}
