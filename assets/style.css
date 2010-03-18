@@ -4,4 +4,6 @@ body #nav li.singlenavgroup.active a, body #nav li.singlenavgroup:hover a {
 
 body #nav li.singlenavgroup a {
 	padding: 0px;
+	background: none;
+	color: #646464;
 }
