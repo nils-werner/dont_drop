@@ -5,7 +5,6 @@ Single Navgroup Behaviour
 Version: 1.0
 Author: Nils Werner (nils.werner@gmail.com)
 Build Date: 2009-05-26
-Requirements: Symphony 2.0.2 or older!
 
 
 [INSTALLATION]
