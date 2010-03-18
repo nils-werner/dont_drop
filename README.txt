@@ -2,7 +2,7 @@
 Single Navgroup Behaviour
 ------------------------------------
 
-Version: 1.0
+Version: 1.1
 Author: Nils Werner (nils.werner@gmail.com)
 Build Date: 2010-03-18
 
@@ -17,3 +17,6 @@ Build Date: 2010-03-18
 
 1.0
 - Initial release
+
+1.1
+- Some CSS Fixes
