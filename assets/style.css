@@ -3,7 +3,13 @@ body #nav li.dontdrop.active a, body #nav li.dontdrop:hover a {
 }
 
 body #nav li.dontdrop a {
-	padding: 0px;
 	background: none;
 	color: #646464;
+	height: 0;
+	padding: 15px 1em;
+}
+
+body #nav li.dontdrop {
+	padding: 0;
+	height: auto;
 }
