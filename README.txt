@@ -1,4 +1,3 @@
-
 Don't Drop
 ------------------------------------
 
@@ -22,3 +21,6 @@ Build Date: 2010-03-18
 
 1.1
 - Some CSS Fixes, Renamed to "Don't Drop"
+
+1.2
+- Extended clickable area
