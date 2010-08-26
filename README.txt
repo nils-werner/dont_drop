@@ -3,9 +3,10 @@ Don't Drop
 
 Hides single Section Navigation Group dropdown-menus
 
-Version: 1.1
+Version: 1.2
 Author: Nils Werner (nils.werner@gmail.com)
 Build Date: 2010-03-18
+Last Update: 2010-08-26
 
 
 [INSTALLATION]
