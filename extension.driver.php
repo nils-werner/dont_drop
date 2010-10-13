@@ -4,7 +4,7 @@
 	
 		public function about(){
 			return array('name' => 'Don\'t Drop!',
-						 'version' => '1.1',
+						 'version' => '1.2',
 						 'release-date' => '2010-03-18',
 						 'author' => array('name' => 'Nils Werner',
 										   'website' => 'http://www.phoque.com/projekte/symphony',
