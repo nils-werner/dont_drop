@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="dont_drop">
+	<name>Don't Drop</name>
+	<description>Hides single item publish menu group dropdown-menus</description>
+	<repo type="github">https://github.com/nils-werner/dont_drop</repo>
+	<url type="discuss">http://symphony-cms.com/discuss/thread/41567/</url>
+	<types>
+		<type>Interface</type>
+	</types>
+	<authors>
+		<author>
+			<name github="nils-werner" symphony="phoque">Nils Werner</name>
+			<website>http://www.phoque.de/</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.3" date="2011-02-27" min="2.0.6" />
+	</releases>
+</extension>
