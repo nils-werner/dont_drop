@@ -4,8 +4,8 @@
 	
 		public function about(){
 			return array('name' => 'Don\'t Drop!',
-						 'version' => '1.3',
-						 'release-date' => '2011-02-02',
+						 'version' => '1.4',
+						 'release-date' => '2012-06-11',
 						 'author' => array('name' => 'Nils Werner',
 										   'website' => 'http://www.phoque.com/projekte/symphony',
 										   'email' => 'nils.werner@gmail.com')
@@ -18,16 +18,15 @@
 				array(
 					'page'		=> '/backend/',
 					'delegate'	=> 'InitaliseAdminPageHead',
-					'callback'	=> 'initaliseAdminPageHead'
+					'callback'	=> 'appendScriptToHead'
 				)
 			);
 		}
 
-		public function initaliseAdminPageHead($context) {
-			$page = $context['parent']->Page;
-			
-			$page->addScriptToHead(URL . '/extensions/dont_drop/assets/script.js', 3165704);
-			$page->addStylesheetToHead(URL . '/extensions/dont_drop/assets/style.css', "screen");
+		public function appendScriptToHead($context) {
+			$page = Administration::instance()->Page;
+			$page->addStylesheetToHead(URL . '/extensions/dont_drop/assets/style.css', 'screen', 666);
+			$page->addScriptToHead(URL . '/extensions/dont_drop/assets/script.js', 667);
 		}
 			
 	}
