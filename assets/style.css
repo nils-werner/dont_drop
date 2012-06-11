@@ -1,9 +1,15 @@
-body #nav li.dontdrop.active a, body #nav li.dontdrop:hover a {
-	color: #ffffff;
+#nav > ul > li.dontdrop a {
+	padding: 0;
 }
 
-body #nav li.dontdrop a {
-	background: none;
-	color: #646464;
-	padding: 0;
+#nav > ul > li.dontdrop.active a {
+	color: #fff;
+}
+
+#nav > ul > li.dontdrop.active a:hover,
+#nav > ul > li.dontdrop a:hover {
+    background: none;
+    border-color: transparent;
+    color: #555555;
+    text-shadow: none;
 }
