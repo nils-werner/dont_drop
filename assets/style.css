@@ -2,13 +2,14 @@
 	padding: 0;
 }
 
+#nav > ul > li.dontdrop.active a {
+	color: #fff;
+}
+
+#nav > ul > li.dontdrop.active a:hover,
 #nav > ul > li.dontdrop a:hover {
     background: none;
     border-color: transparent;
     color: #555555;
     text-shadow: none;
-}
-
-#nav > ul > li.dontdrop.active a {
-	color: #fff;
 }
