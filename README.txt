@@ -3,10 +3,10 @@ Don't Drop
 
 Hides single Section Navigation Group dropdown-menus
 
-Version: 1.3
+Version: 1.4
 Author: Nils Werner (nils.werner@gmail.com)
-Build Date: 2011-02-02
-Requirements: Symphony 2.2
+Build Date: 2012-06-11
+Requirements: Symphony 2.3
 
 
 Installation
