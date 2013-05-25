@@ -1,5 +1,6 @@
 #nav > ul > li.dontdrop a {
 	padding: 0;
+	border: 0;
 }
 
 #nav > ul > li.dontdrop.active a {
@@ -8,8 +9,14 @@
 
 #nav > ul > li.dontdrop.active a:hover,
 #nav > ul > li.dontdrop a:hover {
-    background: none;
-    border-color: transparent;
-    color: #555555;
-    text-shadow: none;
+	background: none;
+	border-color: transparent;
+	color: #555555;
+	text-shadow: none;
+}
+
+#nav > ul > li.dontdrop.active:hover {
+	color: #fff;
+	border-bottom: 1px solid #BBBBB7;
+	height: 30px;
 }
